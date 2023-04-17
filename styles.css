@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #cccccc;
+}
+.player_one{
+	margin: auto;
+	width: 90%;
+	background-color: white;
+	padding: 10px;
+}
+a{
+	display: block;
+	color: black;
+	text-decoration: none;
+	line-height: 20px;
+}
+h1,h3{
+	text-align: center;
+}
+.player_two,.player_three{
+	width: 30%;
+	background-color: white;
+	margin: auto;
+	padding: 10px;
+}
+video{
+	width: 80%;
+	display: block;
+	margin: auto auto;
+}
+audio{
+	display: block;
+	width: 90%;
+	margin: auto;
+}
